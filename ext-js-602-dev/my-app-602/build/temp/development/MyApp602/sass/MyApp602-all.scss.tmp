@@ -913,6 +913,7 @@ $include-myapp602-view-main-list: dynamic(true);;
 $include-myapp602-view-main-main: dynamic(true);;
 $include-myapp602-view-main-maincontroller: dynamic(true);;
 $include-myapp602-view-main-mainmodel: dynamic(true);;
+$include-myapp602-view-main-person: dynamic(true);;
 $output-paths: ("path": "../../classic/resources", "shared": "../../resources");
 
 /* ======================== ETC ======================== */
